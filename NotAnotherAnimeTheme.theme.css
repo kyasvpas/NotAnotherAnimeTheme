@@ -26,7 +26,7 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(249, 166, 184);
 
   /*
     Main Theme Transparency
@@ -65,8 +65,8 @@
   /*
     Mention colors
   */
-  --mention-color: rgba(250, 166, 26, 0.05);
-  --mention-sider: rgba(250, 166, 26, 1);
+  --mention-color: rgba(249, 166, 184, 0.05);
+  --mention-sider: rgba(249, 166, 184, 1);
   --mention-hover-color: rgba(250, 166, 26, 0.08);
 
   /*
