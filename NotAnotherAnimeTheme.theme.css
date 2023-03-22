@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://i.kym-cdn.com/entries/icons/facebook/000/042/714/bocc.jpg);
 
   /*
     Change your friends icon image position
@@ -67,7 +67,7 @@
   */
   --mention-color: rgba(249, 166, 184, 0.05);
   --mention-sider: rgba(249, 166, 184, 1);
-  --mention-hover-color: rgba(250, 166, 26, 0.08);
+  --mention-hover-color: rgba(249, 166, 184, 0.08);
 
   /*
     Server category hover color
