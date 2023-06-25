@@ -31,12 +31,12 @@
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(0, 0, 0, 0.5);
 
   /*
     Home Icon Image new
   */
-  --home-icon-image: url(https://i.kym-cdn.com/entries/icons/facebook/000/042/714/bocc.jpg);
+  --home-icon-image: url(https://cdn.discordapp.com/attachments/705738904749473822/1122438315707211898/tweet_selfie_ame_happy_002.png);
 
   /*
     Change your friends icon image position
